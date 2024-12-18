@@ -1,0 +1,10 @@
+{
+    "name": "alexv/monopoly",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Alexv\\Monopoly\\": "src/"
+        }
+    },
+    "require": {}
+}
